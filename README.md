@@ -1,4 +1,3 @@
-# RainPadjus.github.io
 # Dog Breed Identifier - GitHub.io Page
 
 This repository hosts the Dog Breed Identifier web application, which uses a pre-trained model to classify dog breeds from images. 
